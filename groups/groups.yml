@@ -1,0 +1,8 @@
+---
+junos_group:
+    username: 'tosin'
+    password: 'juniper1'
+    platform: junos
+    data:
+        dns_server: '192.168.20.128'
+        ntp_server: '216.239.35.0'
